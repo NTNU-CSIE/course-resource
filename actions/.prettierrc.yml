@@ -1,0 +1,6 @@
+tabWidth: 4
+# Why use tabs? Because accessibility. See https://github.com/prettier/prettier/issues/7475
+useTabs: true
+singleQuote: false
+trailingComma: all
+printWidth: 120

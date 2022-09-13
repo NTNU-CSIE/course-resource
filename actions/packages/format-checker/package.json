@@ -1,0 +1,14 @@
+{
+	"name": "format-checker",
+	"version": "0.1.0",
+	"scripts": {
+		"start": "tsx src/index.ts"
+	},
+	"dependencies": {
+		"pangu": "^4.0.7"
+	},
+	"devDependencies": {
+		"@types/pangu": "^4.0.0",
+		"tsx": "^3.9.0"
+	}
+}

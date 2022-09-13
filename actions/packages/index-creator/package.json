@@ -1,0 +1,10 @@
+{
+	"name": "index-creator",
+	"version": "0.1.0",
+	"scripts": {
+		"start": "tsx src/index.ts"
+	},
+	"devDependencies": {
+		"tsx": "^3.9.0"
+	}
+}
