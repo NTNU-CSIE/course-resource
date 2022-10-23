@@ -6,14 +6,17 @@
 
 <!-- [INDEX START] -->
 * [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
-  * [110](./resources/CSU0001-程式設計（一）/110/)* [CSU0015-機率論](./resources/CSU0015-機率論/)
+  * [110](./resources/CSU0001-程式設計（一）/110/)
+* [CSU0015-機率論](./resources/CSU0015-機率論/)
   * [108](./resources/CSU0015-機率論/108/)
   * [109](./resources/CSU0015-機率論/109/)
   * [110](./resources/CSU0015-機率論/110/)
-  * [extension](./resources/CSU0015-機率論/extension/)* [CSU0016-線性代數](./resources/CSU0016-線性代數/)
+  * [extension](./resources/CSU0015-機率論/extension/)
+* [CSU0016-線性代數](./resources/CSU0016-線性代數/)
   * [108](./resources/CSU0016-線性代數/108/)
   * [109](./resources/CSU0016-線性代數/109/)
-  * [110](./resources/CSU0016-線性代數/110/)* [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
+  * [110](./resources/CSU0016-線性代數/110/)
+* [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
   * [111](./resources/CSU0021-計算機圖學/111/)
 <!-- [INDEX END] -->
 
