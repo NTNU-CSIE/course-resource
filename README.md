@@ -16,6 +16,12 @@
   * [110](./resources/CSU0016-線性代數/110/)
 <!-- [INDEX END] -->
 
+## 👥 貢獻者
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=NTNU-CSIE/course-resource"/>
+</a>
+
 ## 🧱 結構
 
 ```sh
