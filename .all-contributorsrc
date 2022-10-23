@@ -16,6 +16,26 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "skyhong2002",
+      "name": "Sky Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29522167?v=4",
+      "profile": "https://github.com/skyhong2002",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "Beck049",
+      "name": "Beck049",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71216971?v=4",
+      "profile": "https://github.com/Beck049",
+      "contributions": [
+        "content",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
