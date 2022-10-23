@@ -6,14 +6,17 @@
 
 <!-- [INDEX START] -->
 * [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
-  * [110](./resources/CSU0001-程式設計（一）/110/)* [CSU0015-機率論](./resources/CSU0015-機率論/)
+  * [110](./resources/CSU0001-程式設計（一）/110/)
+* [CSU0015-機率論](./resources/CSU0015-機率論/)
   * [108](./resources/CSU0015-機率論/108/)
   * [109](./resources/CSU0015-機率論/109/)
   * [110](./resources/CSU0015-機率論/110/)
-  * [extension](./resources/CSU0015-機率論/extension/)* [CSU0016-線性代數](./resources/CSU0016-線性代數/)
+  * [extension](./resources/CSU0015-機率論/extension/)
+* [CSU0016-線性代數](./resources/CSU0016-線性代數/)
   * [108](./resources/CSU0016-線性代數/108/)
   * [109](./resources/CSU0016-線性代數/109/)
-  * [110](./resources/CSU0016-線性代數/110/)* [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
+  * [110](./resources/CSU0016-線性代數/110/)
+* [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
   * [111](./resources/CSU0021-計算機圖學/111/)
 <!-- [INDEX END] -->
 
@@ -45,3 +48,16 @@
 但是，基於方便維護、減少大小的考量，建議原始文件資料使用 Markdown 格式。
 
 > 對於數學相關的資料，可以使用 `$O(n \times m)$` 來表現出 $O(n × m)$。
+
+## 貢獻者
+
+非常感謝以下成員對本專案的貢獻：
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->

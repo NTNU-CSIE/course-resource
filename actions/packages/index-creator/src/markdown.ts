@@ -3,7 +3,8 @@ export function index_to_markdown(index: Record<string, string[]>, base = "./res
 		return (
 			acc +
 			(`* [${course}](${base}${course}/)\n` +
-				years.map((year) => `  * [${year}](${base}${course}/${year}/)`).join("\n"))
+				years.map((year) => `  * [${year}](${base}${course}/${year}/)`).join("\n")) +
+			"\n"
 		);
 	}, "");
 }
