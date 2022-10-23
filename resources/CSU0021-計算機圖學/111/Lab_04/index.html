@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>WebPage Title </title>
+    </head>
+
+    <body onload="main()">
+        <canvas id="webgl" width = "400" height = "400">
+            Please use a browser that support "canvas"
+        </canvas>
+        <script src="cuon-matrix.js"></script>
+        <script src="WebGL.js"></script>
+        <div class="slidecontainer0">
+            Translate-X: <input type="range" min="-100" max="100" value="0" class="slider" id="Translate-X">
+        </div>
+        <div class="slidecontainer1">
+            Red Rotation:<input type="range" min="0" max="45" value="0" class="slider" id="jointForRed">
+            Green Rotation:<input type="range" min="0" max="45" value="0" class="slider" id="jointForGreen">
+            Yellow Rotation:<input type="range" min="0" max="45" value="0" class="slider" id="jointForYellow">
+        </div>
+    </body>
+</html>
+
+

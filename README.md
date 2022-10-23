@@ -16,6 +16,8 @@
   * [108](./resources/CSU0016-線性代數/108/)
   * [109](./resources/CSU0016-線性代數/109/)
   * [110](./resources/CSU0016-線性代數/110/)
+* [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
+  * [111](./resources/CSU0021-計算機圖學/111/)
 
 <!-- [INDEX END] -->
 
