@@ -19,12 +19,6 @@
 
 <!-- [INDEX END] -->
 
-## 👥 貢獻者
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=NTNU-CSIE/course-resource"/>
-</a>
-
 ## 🧱 結構
 
 ```sh
@@ -53,3 +47,16 @@
 但是，基於方便維護、減少大小的考量，建議原始文件資料使用 Markdown 格式。
 
 > 對於數學相關的資料，可以使用 `$O(n \times m)$` 來表現出 $O(n × m)$。
+
+## 貢獻者
+
+非常感謝以下成員對本專案的貢獻：
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
