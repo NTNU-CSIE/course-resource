@@ -1,4 +1,7 @@
 # 📚 師大課程資源
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 考古題、作業、筆記。
 
@@ -44,3 +47,25 @@
 但是，基於方便維護、減少大小的考量，建議原始文件資料使用 Markdown 格式。
 
 > 對於數學相關的資料，可以使用 `$O(n \times m)$` 來表現出 $O(n × m)$。
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://jacoblin.cool"><img src="https://avatars.githubusercontent.com/u/28478594?v=4?s=100" width="100px;" alt="JacobLinCool"/><br /><sub><b>JacobLinCool</b></sub></a><br /><a href="#content-JacobLinCool" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3AJacobLinCool" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
