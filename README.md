@@ -1,4 +1,5 @@
 # 📚 師大課程資源
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -8,6 +9,8 @@
 ## 🗂️ 索引
 
 <!-- [INDEX START] -->
+* [CSC9005-資料視覺化](./resources/CSC9005-資料視覺化/)
+  * [111](./resources/CSC9005-資料視覺化/111/)
 * [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
   * [110](./resources/CSU0001-程式設計（一）/110/)
 * [CSU0015-機率論](./resources/CSU0015-機率論/)
