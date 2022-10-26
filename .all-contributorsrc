@@ -36,6 +36,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "Alanasdw",
+      "name": "Alanasdw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60531420?v=4",
+      "profile": "https://github.com/Alanasdw",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

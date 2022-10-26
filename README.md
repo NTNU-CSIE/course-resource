@@ -1,6 +1,6 @@
 # 📚 師大課程資源
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 考古題、作業、筆記。
@@ -65,9 +65,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jacoblin.cool"><img src="https://avatars.githubusercontent.com/u/28478594?v=4?s=100" width="100px;" alt="JacobLinCool"/><br /><sub><b>JacobLinCool</b></sub></a><br /><a href="#tool-JacobLinCool" title="Tools">🔧</a> <a href="#content-JacobLinCool" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3AJacobLinCool" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/skyhong2002"><img src="https://avatars.githubusercontent.com/u/29522167?v=4?s=100" width="100px;" alt="Sky Hong"/><br /><sub><b>Sky Hong</b></sub></a><br /><a href="#content-skyhong2002" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3Askyhong2002" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Beck049"><img src="https://avatars.githubusercontent.com/u/71216971?v=4?s=100" width="100px;" alt="Beck049"/><br /><sub><b>Beck049</b></sub></a><br /><a href="#content-Beck049" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3ABeck049" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://jacoblin.cool"><img src="https://avatars.githubusercontent.com/u/28478594?v=4?s=100" width="100px;" alt="JacobLinCool"/><br /><sub><b>JacobLinCool</b></sub></a><br /><a href="#tool-JacobLinCool" title="Tools">🔧</a> <a href="#content-JacobLinCool" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3AJacobLinCool" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://github.com/skyhong2002"><img src="https://avatars.githubusercontent.com/u/29522167?v=4?s=100" width="100px;" alt="Sky Hong"/><br /><sub><b>Sky Hong</b></sub></a><br /><a href="#content-skyhong2002" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3Askyhong2002" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://github.com/Beck049"><img src="https://avatars.githubusercontent.com/u/71216971?v=4?s=100" width="100px;" alt="Beck049"/><br /><sub><b>Beck049</b></sub></a><br /><a href="#content-Beck049" title="Content">🖋</a> <a href="https://github.com/NTNU-CSIE/course-resource/pulls?q=is%3Apr+reviewed-by%3ABeck049" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://github.com/Alanasdw"><img src="https://avatars.githubusercontent.com/u/60531420?v=4?s=100" width="100px;" alt="Alanasdw"/><br /><sub><b>Alanasdw</b></sub></a><br /><a href="#content-Alanasdw" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
