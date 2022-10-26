@@ -1,6 +1,9 @@
 # 📚 師大課程資源
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 考古題、作業、筆記。
@@ -8,21 +11,24 @@
 ## 🗂️ 索引
 
 <!-- [INDEX START] -->
-* [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
-  * [110](./resources/CSU0001-程式設計（一）/110/)
-* [CSU0015-機率論](./resources/CSU0015-機率論/)
-  * [108](./resources/CSU0015-機率論/108/)
-  * [109](./resources/CSU0015-機率論/109/)
-  * [110](./resources/CSU0015-機率論/110/)
-  * [extension](./resources/CSU0015-機率論/extension/)
-* [CSU0016-線性代數](./resources/CSU0016-線性代數/)
-  * [108](./resources/CSU0016-線性代數/108/)
-  * [109](./resources/CSU0016-線性代數/109/)
-  * [110](./resources/CSU0016-線性代數/110/)
-* [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
-  * [111](./resources/CSU0021-計算機圖學/111/)
-* [CSU0035-數值方法](./resources/CSU0035-數值方法/)
-  * [109](./resources/CSU0035-數值方法/109/)
+
+-   [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
+    -   [110](./resources/CSU0001-程式設計（一）/110/)
+-   [CSU0015-機率論](./resources/CSU0015-機率論/)
+    -   [108](./resources/CSU0015-機率論/108/)
+    -   [109](./resources/CSU0015-機率論/109/)
+    -   [110](./resources/CSU0015-機率論/110/)
+    -   [extension](./resources/CSU0015-機率論/extension/)
+-   [CSU0016-線性代數](./resources/CSU0016-線性代數/)
+    -   [108](./resources/CSU0016-線性代數/108/)
+    -   [109](./resources/CSU0016-線性代數/109/)
+    -   [110](./resources/CSU0016-線性代數/110/)
+-   [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
+    -   [111](./resources/CSU0021-計算機圖學/111/)
+-   [CSU0035-數值方法](./resources/CSU0035-數值方法/)
+    -   [109](./resources/CSU0035-數值方法/109/)
+-   [CSC9005-資料視覺化](./resources/CSC9005-資料視覺化/)
+    -   [111](./resources/CSC9005-資料視覺化/111/)
 
 <!-- [INDEX END] -->
 
