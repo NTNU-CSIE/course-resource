@@ -12,8 +12,8 @@
 
 ### 作業
 
-[Data Processing HW1](./Data%20Processing%20HW1/)
-[Science Visualization HW1](./Science%20Visualization%20HW1/)
+[Data Processing HW1](./Data%20Processing%20HW1/)  
+[Science Visualization HW1](./Science%20Visualization%20HW1/)  
 [Visual Design HW1](./Visual%20Design%20HW1/)
 
 ...
