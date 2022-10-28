@@ -22,10 +22,12 @@
   * [108](./resources/CSU0016-線性代數/108/)
   * [109](./resources/CSU0016-線性代數/109/)
   * [110](./resources/CSU0016-線性代數/110/)
+  * [111](./resources/CSU0016-線性代數/111/)
 * [CSU0021-計算機圖學](./resources/CSU0021-計算機圖學/)
   * [111](./resources/CSU0021-計算機圖學/111/)
 * [CSU0035-數值方法](./resources/CSU0035-數值方法/)
   * [109](./resources/CSU0035-數值方法/109/)
+  * [111](./resources/CSU0035-數值方法/111/)
 
 <!-- [INDEX END] -->
 
