@@ -16,7 +16,10 @@ jobs:
                   ref: ${{ github.event.pull_request.head.ref }}
 
             - name: Setup PNPM
-              uses: pnpm/action-setup@v2.2.2
+              uses: pnpm/action-setup@v2.2.4
+              with:
+                run_install: |
+                  - cwd: ./actions
 
             - name: Check
               run: make
