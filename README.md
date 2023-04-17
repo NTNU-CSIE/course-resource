@@ -9,8 +9,6 @@
 ## 🗂️ 索引
 
 <!-- [INDEX START] -->
-* [CSC9005-資料視覺化](./resources/CSC9005-資料視覺化/)
-  * [111](./resources/CSC9005-資料視覺化/111/)
 * [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
   * [110](./resources/CSU0001-程式設計（一）/110/)
 * [CSU0013-資料結構](./resources/CSU0013-資料結構/)
@@ -31,6 +29,9 @@
 * [CSU0035-數值方法](./resources/CSU0035-數值方法/)
   * [109](./resources/CSU0035-數值方法/109/)
   * [111](./resources/CSU0035-數值方法/111/)
+* [CSU0042-人工智慧](./resources/CSU0042-人工智慧/)
+  * [110](./resources/CSU0042-人工智慧/110/)
+  * [111](./resources/CSU0042-人工智慧/111/)
 
 <!-- [INDEX END] -->
 
