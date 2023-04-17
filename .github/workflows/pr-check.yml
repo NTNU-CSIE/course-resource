@@ -17,8 +17,6 @@ jobs:
 
             - name: Setup PNPM
               uses: pnpm/action-setup@v2.2.2
-              with:
-                  version: latest
 
             - name: Check
               run: make
