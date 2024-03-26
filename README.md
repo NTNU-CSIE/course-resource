@@ -11,6 +11,7 @@
 <!-- [INDEX START] -->
 * [CSU0001-程式設計（一）](./resources/CSU0001-程式設計（一）/)
   * [110](./resources/CSU0001-程式設計（一）/110/)
+  * [112](./resources/CSU0001-程式設計（一）/112/)
 * [CSU0013-資料結構](./resources/CSU0013-資料結構/)
   * [111](./resources/CSU0013-資料結構/111/)
 * [CSU0015-機率論](./resources/CSU0015-機率論/)
